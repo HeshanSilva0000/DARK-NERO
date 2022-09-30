@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮Dark NERO MD 2022 ®️ALL RIGHTS RESERVED
+//▮HESHAN SILVA BoT 2022 ®️ALL RIGHTS RESERVED
 //▮ 
 
 //▮
@@ -10,8 +10,8 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING DarkNero
-//┃THANKS TO Vishanga & Thinura & kumuthu
+//┃THANKS FOR CHOOSING HESHAN
+//┃THANKS TO MIHIN & KAVISHKA 
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 const fs = require('fs')
@@ -33,7 +33,7 @@ global.APIKeys = {
 
 global.alivemsg ="HI I'M  ⚜️ 𝙷 𝙴 𝚂 𝙷 𝙰 𝙽 ⚜️"
                      
-global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
+global.alivepic = "https://ibb.co/r40PTpW/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
 
 
 global.ownername = " HESHAN " //ur owner name
