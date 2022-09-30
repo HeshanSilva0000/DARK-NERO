@@ -33,7 +33,7 @@ global.APIKeys = {
 
 global.alivemsg ="HI I'M  ⚜️ 𝙷 𝙴 𝚂 𝙷 𝙰 𝙽 ⚜️"
                      
-global.alivepic = "https://ibb.co/r40PTpW/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
+global.alivepic = "https://ibb.co/r40PTpW" //you logo key 
 
 
 global.ownername = " HESHAN " //ur owner name
